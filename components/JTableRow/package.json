@@ -1,6 +1,6 @@
 {
   "name": "@ederusena/j-table-row",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "publishConfig": {
     "access": "public"
   },
