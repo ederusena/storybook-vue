@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import JTableRow from '@sb-ederusena/j-table-row/JTableRow'
+import JTableRow from '@ederusena/j-table-row/JTableRow'
 export default {
   name: 'JTable',
   props: {
