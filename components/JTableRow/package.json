@@ -1,8 +1,8 @@
 {
-  "name": "@ederusena/j-table-row",
+  "name": "@sb-ederusena/j-table-row",
   "version": "0.1.2",
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "afd89136db877644df449fd5abe4f533849cfb26"
+  "gitHead": "912a4ba1d593d6fac3b739ad8804c3baba879f66"
 }

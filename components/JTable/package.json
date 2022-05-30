@@ -1,0 +1,10 @@
+{
+  "name": "@sb-ederusena/j-table",
+  "version": "0.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@sb-ederusena/j-table-row": "^0.1.2"
+  }
+}
