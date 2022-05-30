@@ -1,6 +1,10 @@
 {
   "name": "root",
   "private": true,
+  "repository" : {
+    "type" : "git",
+    "url": "git@github.com:ederusena/storybook-learn-components.git"
+  },
   "devDependencies": {
     "@babel/core": "^7.18.2",
     "@storybook/addon-actions": "^6.5.6",
