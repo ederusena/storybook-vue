@@ -3,3 +3,8 @@
 ```shell
 lerna add @ederusena/j-table-row --scope=@ederusena/j-table
 ```
+
+# install
+npm install @ederusena/j-table
+# importing JTable automatically will bring JTableRow
+import JTable from '@ederusena/j-table/JTable'
