@@ -1,11 +1,11 @@
 {
   "name": "@ederusena/j-table",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publishConfig": {
     "access": "public"
   },
   "gitHead": "6943da4a4c555d203655a7494330170d2001db96",
   "dependencies": {
-    "@ederusena/j-table-row": "^0.1.4"
+    "@ederusena/j-table-row": "^0.1.5"
   }
 }
